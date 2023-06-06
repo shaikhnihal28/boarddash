@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+    <!--
+        
+        Npm version 
+        npm -v
+        9.6.1 
+
+        npm view react version 
+        18.2.0
+                
+        React Responsive Admin Panel Tutorial | React Admin Dashboard
+        https://youtu.be/K7vHoUwClaM
+        
+        React Icons
+        npm v4.9.0
+        
+        React-circular-progressbar
+        npm v 2.1.0
+
+        ApexCharts Chart Bar
+        npm v 3.15.0
+        npm install apexcharts --save
+
+        mui.com/material-ui/react-table
+        npm v 5.13.3
+
+
+    -->
+
+
+
